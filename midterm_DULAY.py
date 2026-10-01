@@ -45,7 +45,7 @@ total_amount = Quantity_Sold * Price_Per_Unit
 
 #Print/Display the Item name, Quantity Sold, Price per unit, and Total amount
 print(f"Item Name: {item_name}, Quantity: {quantity_sold}, Price Per Unit: {price_per_unit}, Total Amount: {total_amount} ")
-print("Sale record saved successfully.")
+print("Sale record saved successfully. ")
 
 
 
